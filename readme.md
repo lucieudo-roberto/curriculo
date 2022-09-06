@@ -2,7 +2,7 @@
 # Olá   &nbsp;&nbsp;😁, &nbsp;&nbsp;Seja bem vindo,&nbsp;&nbsp;🙆‍♂️
 #
 > Neste reposotório há somente o meu currículo
- no formato `.pdf`, vc pode baixar/visualizar clicando [aquí](curriculo_lucieudo_roberto.pdf)
+ no formato `.pdf`, você pode baixar/visualizar clicando [aquí](curriculo_lucieudo_roberto.pdf)
 #
 #
 #
